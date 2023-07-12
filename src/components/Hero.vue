@@ -19,6 +19,8 @@ export default {
 <style scoped>
 
   img{
+    display: block;
+    margin: 0 auto;
     width:900;
     height:400;
   }
